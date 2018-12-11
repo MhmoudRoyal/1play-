@@ -1,6 +1,6 @@
 token=TOKEN
-owner=260937918653136906
-prefix=9
-game=Future, Community. 💕
-stayinchannel=true
+owner= 311526803405537281
+prefix=1
+game=1play | فيطي كرافت
+stayinchannel=true 
 songinstatus=true
